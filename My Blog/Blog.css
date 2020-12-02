@@ -1,0 +1,15 @@
+h1, h2 {
+    color: rgb(0, 0, 0);
+    position: relative;
+    text-align: center;
+  }
+  
+  h4 {
+    color: rgb(0, 0, 0);
+    position: relative;
+    text-align: center;
+  }
+
+body {
+    background-color: rgb(126, 199, 126)
+}
